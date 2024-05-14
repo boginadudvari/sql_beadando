@@ -1,1 +1,1 @@
-# sql_beadando
+Csapattagok: Lakatos Kincső, Nádudvari Boglárka
